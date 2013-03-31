@@ -33,7 +33,7 @@ It uses the default styling - so it's not pretty but you can style it any way yo
 
 
 == Screenshots == 
-1. The lightbox shown when you click the 'Private Message' button on a profile page. 
+1. The lightbox shown when you click the -Private Message- button on a profile page. 
 
 
 == Frequently Asked Questions ==
