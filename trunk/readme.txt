@@ -1,4 +1,4 @@
-=== BP Profile Message UX Free ===
+=== BuddyProfileMessageUX Free ===
 Contributors: shanebp
 Author URI: http://philopress.com/contact/
 Plugin URI: http://www.philopress.com/products/buddymessageux-free/
