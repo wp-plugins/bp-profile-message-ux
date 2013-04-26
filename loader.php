@@ -8,7 +8,6 @@ Author URI: http://philogames.com/contact
 Version: 1.1.2
 */
 
-
 if ( !defined( 'ABSPATH' ) ) exit;  
 
 define( 'BP_PROFILE_MESSAGE_UX', '1.0' );

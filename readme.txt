@@ -19,7 +19,7 @@ Why? Why not stay on the profile page you are viewing?
 Fortunately, BuddyPress makes it easy to replace the functionality for those buttons. 
 With this plugin you can stay on a profile page and send private or public messages to that member.  
 
-This plugin uses the default WordPress 'thickbox' code, so it is very difficult to style. 
+This plugin uses the default WordPress 'thickbox' code, making it difficult to style. 
 If you need the ability to style the overlay or adjust the javascript, 
 you might be interested in the premium version here:
 http://www.philopress.com/products/buddymessageux/
@@ -28,7 +28,7 @@ http://www.philopress.com/products/buddymessageux/
 
 == Installation ==
 
-1. Upload the 'bp-profile-message-ux-free' folder to the '/wp-content/plugins/' directory
+1. Upload the 'bp-profile-message-ux' folder to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 
