@@ -5,7 +5,7 @@ Description: A BuddyPress plugin. Replaces the functionality for Public and Priv
 Author: shanebp
 License: GPLv2 
 Author URI: http://philogames.com/contact
-Version: 1.1.4
+Version: 1.1.5
 */
 
 if ( !defined( 'ABSPATH' ) ) exit;  
