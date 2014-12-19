@@ -2,7 +2,7 @@
 Contributors: shanebp
 Author URI: http://philopress.com/contact/
 Plugin URI: http://www.philopress.com/products/buddymessageux-free/
-Tags: BuddyPress, plugins, members, profile, message
+Tags: BuddyPress, plugins, members, profile, messages
 Requires at least: WP 3.5 and BP 1.6.5
 Tested up to: WP 4.1, BP 2.1.1
 License: GPLv2 
