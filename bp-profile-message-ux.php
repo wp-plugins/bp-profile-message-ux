@@ -61,7 +61,7 @@ function bp_profile_private_message_ux_button( $button ) {
 					
 	$button_divs .= '<div class="generic-button" id="send-private-message">';
 	
-	$button_divs .= '<a href="#TB_inline?width=300&height=310&inlineId=create-private-message-ux" class="thickbox" 		id="private-button-id" title="';
+	$button_divs .= '<a href="#TB_inline?width=300&height=420&inlineId=create-private-message-ux" class="thickbox" 		id="private-button-id" title="';
 	
 	$button_divs .= $button_title . ' ' . bp_get_displayed_user_username() . '">';
 	
@@ -146,7 +146,7 @@ function bp_profile_public_message_ux_button( $button ) {
 
 	$button_divs .= '<div class="generic-button" id="send-public-message">';	
 
-	$button_divs .= '<a href="#TB_inline?width=300&height=225&inlineId=create-public-message-ux" class="thickbox" id="public-button-id" title="';
+	$button_divs .= '<a href="#TB_inline?width=300&height=320&inlineId=create-public-message-ux" class="thickbox" id="public-button-id" title="';
 	
 	$button_divs .= $button_title . ' ' . bp_get_displayed_user_username() . '">';
 	
@@ -174,4 +174,3 @@ function bp_profile_public_message_ux_button( $button ) {
 		
 }
 add_filter( 'bp_get_send_public_message_button', 'bp_profile_public_message_ux_button', 1, 1 );
-?>

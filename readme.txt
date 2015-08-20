@@ -5,9 +5,9 @@ Author URI: http://philopress.com/contact/
 Plugin URI: http://www.philopress.com/products/buddymessageux-free/
 Tags: BuddyPress, plugins, members, profile, message
 Requires at least: WP 3.5 and BP 1.6.5
-Tested up to: WP 4.2, BP BP 2.2.3.1
+Tested up to: WP 4.3
 License: GPLv2 
-Stable tag: 1.3
+Stable tag: 1.4
 
 This BuddyPress plugin replaces the functionality for the Public Message and Private Message buttons on profile pages.
 
@@ -46,6 +46,9 @@ http://www.philopress.com/products/buddymessageux/
 
 = 1.3 =
 * Tested with WP 4.2
+
+= 1.4 =
+* Tested with WP 4.3
 
 == Upgrade Notice == 
 
